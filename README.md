@@ -1,4 +1,4 @@
-# RomanescU - backend
+# RomanescU - backend-web
 _aplicatia romanului de pretutindeni_
 
 ## PREREQUISITES
@@ -15,7 +15,7 @@ Build Maven
 
 ## RUN
 
-> java -jar romanescu-backend.jar
+> java -jar romanescu-web.jar
 
 
 
